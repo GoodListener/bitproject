@@ -8,7 +8,8 @@ public class Hello {
   }
   
   private static void ohora() {
-    System.out.println("하하핳");
+    System.out.println("하하핳111");
   }
+  
 
 }

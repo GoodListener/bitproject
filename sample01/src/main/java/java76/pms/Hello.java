@@ -10,7 +10,7 @@ public class Hello {
   }
   
   private static void ohora() {
-    System.out.println("하하핳111");
+    System.out.println("황유정!!!!!");
   }
   
   private static void ohora2() {

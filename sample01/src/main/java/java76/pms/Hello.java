@@ -10,6 +10,7 @@ public class Hello {
   }
   
   private static void ohora() {
+    System.out.println("하하핳111");
     System.out.println("황유정!!!!!");
   }
   
@@ -18,6 +19,9 @@ public class Hello {
   }
   public static void kimkim() {
     System.out.println("어어");
+    System.out.println("어어2");
   }
+  
+  
 
 }
